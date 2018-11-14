@@ -1,0 +1,31 @@
+apa itu Python ? Python merupakan interpreter leanguage berbeda dengan C/C++ yaitu compile leanguage(sbelum running harus compile dulu).Python juga bisa dibilang turunan dari C, karena basic pembuatannya berasal dari C. 
+kenapa python,knapa tidak C ? karena bahasa python lebih mudah di pahami dan menyediakan banyak package/web framework.
+
+#1.String merupakan salah satu tipe data di python
+#2.List(mutable) merupakan suatu variabel yang menampung data satu atau lebih pada python
+#3.if_elif_else merupakan suatu logika perbandingan pada python, dimana yang memenuhi syarat tertentu yang akan di eksekusi
+#4.Looping merupakan metode perulangan pada python dimana kode tersebut akan berjalan sampai data habis atau tergantung perintah
+#5.for = perulangan, else = jika if sebelumnya tidak terpenuhi, range = jarak ataupun jangkauan angkak yang sudah ditetapkan, break = perintah berhenti ketika permintaan terpenuhi
+#6.continue = perintah untuk melanjutkan ke proses selanjutnya walaupun perintah terpenuhi, pass = apapun hasil proses maka pass akan melanjutkan proses selanjutnya
+#7.while = while(uncounted loop) yaitu perulangan yang tidak memiliki syarat dan dan tidak tentu berapa banyak perulangannya
+#8.function = merupakan algoritma yang bisa dipanggil berulang kali
+#9.fungsi&argumen = ada 3 jenis fungsi : sederhana,menggunakan keywords dan default argumen
+#10.Return value = berfungsi untung mendapatkan nilai balik(hanya menggunakan operasi fungsi) tanpa ada psoses cetak
+#11.Lambda Function = sebuah keyword untuk membuat fungsi sederhana tanpa nama
+#12.Scope global = fungsi untuk merubah isi variable awal dan scope local = merubah isi variable didalam fungsi saja
+#13.More on List= Tambahan beberapa method yang sering digunakan dalam list
+#14.stacks And Queues = stack : tambah/hapus data berdasarkan tumpukan, Queues : tambah/hapus data berdasarkan antrian
+#15.tuple(immutable) = memiliki method yang lebih sedikit daripada list,tetapi berguna untuk aplikasi yang tidak membutuhkan perubahan data,juga ukuran serta proses tuple jauh lebih seedikit daripada list
+#16.set(himpunan) = merupakan tipe data yang tidak meghiraukan urutan data & hanya membaca 1 nilai dari isi yang sama.(memudahkan dalam operasi matematikasperti irisan, dll)
+#17.dictionary = struktur data yang terdiri dari key&value(perbedaan dgan yang lain adalah tidak menggunakan index)jadi yang dipanggil adalah key
+#18.Teknik Looping = kumpulan teknik2 yang sering digunakan dalam looping
+#19.Import = berguna untuk menggunakan multifiles, artinya bisa mengakses isi di class lain dengan perintah import 'nama class'
+#20.package = menggabungkan suatu class kedalam satu folder untuk memudahkan pemanggilan, dimana class __init__.py sebagai induk
+#21.Class = merupakan sebuah induk dari beberapa method yang mempunyai sifat yang sama
+#22.MembuatMethod = method dalam class itu mirip dengan sebuah fungsi, tetapi yang membedakan adalah method berada didalam class
+#23.Menggunakan __init__() = __init__() merupakan suatu method yang berjalan otomatis ketika kelas tempat ia berada itu di panggil.
+#24.Private_Atribut = membedakan hak akses atribut public(bisa diakses diluar class) atupun private 
+#25.Class_Variable = variable yang dimiliki oleh class
+#26.ClassInheritance = merupakan konsep OOP yang banyak digunakan, Inheritance(turunan) merupakan penggunaan method(isi) dari class lain ke class yang baru(method bisa override/tindih).
+#27.GUIWithTkinter =Tkinter merupakan salah satu GUI(Graphical User Interface) di Python
+#28.TryAndException = berguna agar program tidak berhenti ketika ada error di tengah
